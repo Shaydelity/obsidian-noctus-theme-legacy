@@ -1,6 +1,8 @@
 ## About the Noctus Theme
 
-> This is a HUGE work in progress! No Light Theme included yet!
+> [!WARNING]
+> ATTENTION - This is the discontinued version of the theme! Only have it around to bridge the gap for a rework.
+> A remake in SCSS has been started [here](https://codeberg.org/Shaydelity/obsidian-noctus-theme).
 
 The Noctus Theme for Obsidian is a theme made with the intent to be as modular **as possible**, which is why it was initially known as the "Modulo Theme". It uses Oklch instead of RGB as a color space, which allows for more modular treatment of colors and better gradients **BUT also leads to many snippets becoming incompatible with this theme. *Yet we intend to make snippets of our own to both extend the functions of this theme but also offer beloved snippets compatible with our theme.***
 
