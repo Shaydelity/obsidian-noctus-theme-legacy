@@ -1,9 +1,7 @@
 {
-	"name": "Noctus Theme",
+	"name": "Noctus Theme Legacy",
 	"version": "0.3.2",
 	"minAppVersion": "1.6.1",
-	"author": "Reparse",
-	"authorUrl": "https://github.com/Reparse-dev",
-	"credit": ["CyanVoxel", "Carbonateb", "@kepano"],
-	"creditUrl": ["https//github.com/CyanVoxel", "https://lucaschampagne.dev/", "https://twitter.com/kepano"]
+	"author": "Shaydelity",
+	"authorUrl": "https://codeberg.org/Shaydelity"
 }
